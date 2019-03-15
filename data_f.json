@@ -1,0 +1,2352 @@
+{
+	
+        "ControllerDetails":{
+                "c_101":{
+                            "2_password":"$pbkdf2-sha256$12000$nvOeM4awNmYMAUCI8b43JoRQam0tBaBUyhkD4FxrLeU$y2hm2.0zoOpHrDnFTmXdzILgkeGmC49oo5cJXoJr8eA",
+                            "3_city":"Bhavnagar",
+                            "4_contact":"9408815175",
+                            "1_controller_ID":"c_101"
+                         },
+                "c_102":{
+                            "2_password":"$pbkdf2-sha256$12000$nvOeM4awNmYMAUCI8b43JoRQam0tBaBUyhkD4FxrLeU$y2hm2.0zoOpHrDnFTmXdzILgkeGmC49oo5cJXoJr8eA",
+                            "3_city":"Surat",
+                            "4_contact":"9408815169",
+                            "1_controller_ID":"c_102"
+                         },
+                "c_103":{
+                            "2_password":"$pbkdf2-sha256$12000$nvOeM4awNmYMAUCI8b43JoRQam0tBaBUyhkD4FxrLeU$y2hm2.0zoOpHrDnFTmXdzILgkeGmC49oo5cJXoJr8eA",
+                            "3_city":"Rajkot",
+                            "4_contact":"9408815147",
+                            "1_controller_ID":"c_103"
+                         }
+                     },
+
+    "BusDetails":{
+        "bus_101":{
+                    "Bus_No":"GJ-05-0421",
+                    "Total_Seats":"50",
+                    "Bus_ID":"bus_101"
+                 },
+        "bus_102":{
+                    "Bus_No":"234",
+                    "Total_Seats":"60",
+                    "Bus_ID":"bus_102"
+                 },
+        "bus_103":{
+                    "Bus_No":"345",
+                    "Total_Seats":"60",
+                    "Bus_ID":"bus_103"
+                 },
+        "bus_104":{
+                    "Bus_No":"1262",
+                    "Total_Seats":"60",
+                    "Bus_ID":"bus_104"
+                 },
+        "bus_105":{
+                    "Bus_No":"1522",
+                    "Total_Seats":"60",
+                    "Bus_ID":"bus_105"
+                 },
+        "bus_106":{
+                    "Bus_No":"6323",
+                    "Total_Seats":"60",
+                    "Bus_ID":"bus_106"
+                 },
+        "bus_107":{
+                    "Bus_No":"4521",
+                    "Total_Seats":"60",
+                    "Bus_ID":"bus_107"
+                 },
+        "bus_108":{
+                    "Bus_No":"423",
+                    "Total_Seats":"60",
+                    "Bus_ID":"bus_108"
+                 },
+        "bus_109":{
+                    "Bus_No":"2365",
+                    "Total_Seats":"60",
+                    "Bus_ID":"bus_109"
+                 },
+        "bus_110":{
+                    "Bus_No":"1478",
+                    "Total_Seats":"60",
+                    "Bus_ID":"bus_110"
+                 },
+        "bus_111":{
+                    "Bus_No":"9856",
+                    "Total_Seats":"60",
+                    "Bus_ID":"bus_111"
+                 },
+        "bus_112":{
+                    "Bus_No":"1246",
+                    "Total_Seats":"60",
+                    "Bus_ID":"bus_112"
+                 },
+        "bus_113":{
+                    "Bus_No":"7624",
+                    "Total_Seats":"60",
+                    "Bus_ID":"bus_113"
+                 },
+        "bus_114":{
+                    "Bus_No":"2415",
+                    "Total_Seats":"60",
+                    "Bus_ID":"bus_114"
+                 },
+        "bus_115":{
+                    "Bus_No":"1423",
+                    "Total_Seats":"60",
+                    "Bus_ID":"bus_116"
+                 },
+        "bus_116":{
+                    "Bus_No":"3786",
+                    "Total_Seats":"60",
+                    "Bus_ID":"bus_116"
+                 },
+        "bus_117":{
+                    "Bus_No":"3475",
+                    "Total_Seats":"60",
+                    "Bus_ID":"bus_117"
+                 },
+        "bus_118":{
+                    "Bus_No":"3945",
+                    "Total_Seats":"60",
+                    "Bus_ID":"bus_118"
+                 },
+        "bus_119":{
+                    "Bus_No":"7512",
+                    "Total_Seats":"60",
+                    "Bus_ID":"bus_119"
+                 },
+        "bus_120":{
+                    "Bus_No":"3712",
+                    "Total_Seats":"60",
+                    "Bus_ID":"bus_120"
+                 },
+        "bus_121":{
+                    "Bus_No":"4521",
+                    "Total_Seats":"60",
+                    "Bus_ID":"bus_121"
+                 },
+        "bus_122":{
+                    "Bus_No":"7516",
+                    "Total_Seats":"60",
+                    "Bus_ID":"bus_122"
+                 },
+        "bus_123":{
+                    "Bus_No":"4512",
+                    "Total_Seats":"60",
+                    "Bus_ID":"bus_123"
+                 },
+        "bus_124":{
+                    "Bus_No":"5698",
+                    "Total_Seats":"60",
+                    "Bus_ID":"bus_124"
+                 },
+        "bus_125":{
+                    "Bus_No":"4685",
+                    "Total_Seats":"60",
+                    "Bus_ID":"bus_125"
+                 },
+        "bus_126":{
+                    "Bus_No":"3785",
+                    "Total_Seats":"60",
+                    "Bus_ID":"bus_126"
+                 },
+        "bus_127":{
+                    "Bus_No":"7125",
+                    "Total_Seats":"60",
+                    "Bus_ID":"bus_127"
+                 },
+        "bus_128":{
+                    "Bus_No":"7851",
+                    "Total_Seats":"60",
+                    "Bus_ID":"bus_128"
+                 },
+        "bus_129":{
+                    "Bus_No":"3145",
+                    "Total_Seats":"60",
+                    "Bus_ID":"bus_129"
+                 },
+        "bus_130":{
+                    "Bus_No":"8542",
+                    "Total_Seats":"60",
+                    "Bus_ID":"bus_130"
+                 },
+        "bus_131":{
+                    "Bus_No":"7642",
+                    "Total_Seats":"60",
+                    "Bus_ID":"bus_131"
+                 },
+        "bus_132":{
+                    "Bus_No":"1625",
+                    "Total_Seats":"60",
+                    "Bus_ID":"bus_132"
+                 },
+        "bus_133":{
+                    "Bus_No":"1458",
+                    "Total_Seats":"60",
+                    "Bus_ID":"bus_133"
+                 },
+        "bus_134":{
+                    "Bus_No":"1897",
+                    "Total_Seats":"60",
+                    "Bus_ID":"bus_134"
+                 },
+        "bus_135":{
+                    "Bus_No":"3785",
+                    "Total_Seats":"60",
+                    "Bus_ID":"bus_135"
+                 },
+        "bus_136":{
+                    "Bus_No":"3785",
+                    "Total_Seats":"60",
+                    "Bus_ID":"bus_136"
+                 },
+        "bus_137":{
+                    "Bus_No":"7945",
+                    "Total_Seats":"60",
+                    "Bus_ID":"bus_137"
+                 },
+        "bus_138":{
+                    "Bus_No":"3257",
+                    "Total_Seats":"60",
+                    "Bus_ID":"bus_138"
+                 },
+        "bus_139":{
+                    "Bus_No":"7854",
+                    "Total_Seats":"60",
+                    "Bus_ID":"bus_139"
+                 },
+        "bus_140":{
+                    "Bus_No":"7842",
+                    "Total_Seats":"60",
+                    "Bus_ID":"bus_140"
+                 }
+    },
+    "ConductorDetails":{
+                "cn_101":{
+                            "C_Email":"abc@gmail.com",
+                            "C_Password":"45679",
+                            "C_Conductor_Name":"raj",
+                            "C_Contact":"7283921125",
+                            "C_Address":"Bhavnagar",
+                            "C_ID":"cn_101"
+                         },
+                "cn_102":{
+                            "C_Email":"pqr@gmail.com",
+                            "C_Password":"56789",
+                            "C_Conductor_Name":"man",
+                            "C_Contact":"7283921182",
+                            "C_Address":"Ahmedabad",
+                            "C_ID":"cn_102"
+                         },
+
+                 "cn_103":{
+                            "C_Email":"xyz@gmail.com",
+                            "C_Password":"56412",
+                            "C_Conductor_Name":"heet",
+                            "C_Contact":"7283921166",
+                            "C_Address":"Vadodara",
+                            "C_ID":"cn_103"
+                         },
+
+                   "cn_109":{
+                            "C_Email":"magan111@gmail.com",
+                            "C_Password":"$pbkdf2-sha256$12000$nvOeM4awNmYMAUCI8b43JoRQam0tBaBUyhkD4FxrLeU$y2hm2.0zoOpHrDnFTmXdzILgkeGmC49oo5cJXoJr8eA",
+                            "C_Conductor_Name":"magan",
+                            "C_Contact":"4567834567",
+                            "C_Address":"Rajkot",
+                            "C_ID":"cn_109"
+                         }
+
+            },
+
+    "Ticket_Log":{
+
+            "bus_101":{
+                "cn_101":{
+                    	"1":{
+                                    "b_Source":"Ahmedabad",
+                                    "c_Destination":"Vadodara",
+                                    "d_Date":"2019-02-14",
+                                    "e_No_Of_Ticket":"2",
+                                    "f_Fare":"200"
+                    	},
+ 
+                        "2":{
+                                    "b_Source":"Ahmedabad",
+                                    "c_Destination":"Vadodara",
+                                    "d_Date":"2019-02-14",
+                                    "e_No_Of_Ticket":"1",
+                                    "f_Fare":"100"
+                        }      
+                }
+            },
+
+            "bus_102":{
+                "cn_102":{
+						"1":{
+                                    "b_Source":"Ahmedabad",
+                                    "c_Destination":"Bhuj",
+                                    "d_Date":"2019-02-15",
+                                    "e_No_Of_Ticket":"2",
+                                    "f_Fare":"200"
+                        },
+ 
+                        "2":{
+                                    "b_Source":"Ahmedabad",
+                                    "c_Destination":"Bhuj",
+                                    "d_Date":"2019-02-15",
+                                    "e_No_Of_Ticket":"1",
+                                    "f_Fare":"100"
+                        }      
+                }
+            },
+
+           
+            "bus_102":{
+                "cn_101":{
+                     	"1":{
+                                    "b_Source":"Ahmedabad",
+                                    "c_Destination":"Bhuj",
+                                    "d_Date":"2019-02-17",
+                                    "e_No_Of_Ticket":"3",
+                                    "f_Fare":"300"
+                        },
+ 
+                        "2":{
+                                    "b_Source":"Ahmedabad",
+                                    "c_Destination":"Bhuj",
+                                    "d_Date":"2019-02-17",
+                                    "e_No_Of_Ticket":"5",
+                                    "f_Fare":"500"
+                        }      
+                }
+            },
+
+
+            "bus_103":{
+                "cn_103":{
+                     "1":{
+                                    "b_Source":"Ahmedabad",
+                                    "c_Destination":"Vadodara",
+                                    "d_Date":"2019-02-18",
+                                    "e_No_Of_Ticket":"1",
+                                    "f_Fare":"100"
+                    },
+ 
+                    "2":{
+                                    "b_Source":"Ahmedabad",
+                                    "c_Destination":"Vadodara",
+                                    "d_Date":"2019-02-18",
+                                    "e_No_Of_Ticket":"2",
+                                    "f_Fare":"200"
+                    }     
+                     
+                },
+
+                "cn_102":{
+                     "1":{
+                                    "b_Source":"Ahmedabad",
+                                    "c_Destination":"Vadodara",
+                                    "d_Date":"2019-02-19",
+                                    "e_No_Of_Ticket":"1",
+                                    "f_Fare":"100"
+                    },
+ 
+                    "2":{
+                                    "b_Source":"Ahmedabad",
+                                    "c_Destination":"Vadodara",
+                                    "d_Date":"2019-02-18",
+                                    "e_No_Of_Ticket":"2",
+                                    "f_Fare":"200"
+                    }     
+            }
+
+          },
+
+
+            "bus_101":{
+                "cn_101":{
+                     "1":{
+                                    "b_Source":"Ahmedabad",
+                                    "c_Destination":"Rajkot",
+                                    "d_Date":"2019-02-21",
+                                    "e_No_Of_Ticket":"1",
+                                    "f_Fare":"100"
+                    },
+ 
+                    "2":{
+                                    "b_Source":"Ahmedabad",
+                                    "c_Destination":"Rajkot",
+                                    "d_Date":"2019-02-21",
+                                    "e_No_Of_Ticket":"2",
+                                    "f_Fare":"200"
+                    },
+
+                   "3":{
+                                    "b_Source":"Ahmedabad",
+                                    "c_Destination":"Limbdi",
+                                    "d_Date":"2019-02-21",
+                                    "e_No_Of_Ticket":"2",
+                                    "f_Fare":"350"
+                    }           
+                     
+                },
+
+                "cn_102":{
+                     "1":{
+                                    "b_Source":"Ahmedabad",
+                                    "c_Destination":"Rajkot",
+                                    "d_Date":"2019-02-21",
+                                    "e_No_Of_Ticket":"1",
+                                    "f_Fare":"100"
+                    },
+ 
+                    "2":{
+                                    "b_Source":"Ahmedabad",
+                                    "c_Destination":"Rajkot",
+                                    "d_Date":"2019-02-21",
+                                    "e_No_Of_Ticket":"2",
+                                    "f_Fare":"200"
+                    },
+
+                   "3":{
+                                    "b_Source":"Ahmedabad",
+                                    "c_Destination":"Bagodara",
+                                    "d_Date":"2019-02-21",
+                                    "e_No_Of_Ticket":"2",
+                                    "f_Fare":"300"
+                    }          
+            }
+
+          }
+
+        },  
+
+             
+
+           "City":{
+                    "1":{
+                            "City_Name":"Ahmedabad",
+                            "Latitude":"23.03386300",
+                            "longitude":"72.66666667"
+
+                         },
+
+                     "2":{
+                            "City_Name":"Rajkot" ,
+                             "Latitude":"22.30000000",
+                            "longitude":"70.93333333"
+
+
+                         },
+
+                     "3":{
+                            "City_Name":"Bhavnagar" ,
+                             "Latitude":"21.76666667",
+                            "longitude":"72.18333333"
+
+                         },
+
+                     "4":{
+                            "City_Name":"Surat",
+                            "Latitude":"21.17024000",
+                            "longitude":"72.83106200"
+                        },   
+
+                     "5":{
+                            "City_Name":"Vadodara" ,
+                            "Latitude":"22.00000000",
+                            "longitude":"73.26666667"	
+
+                         },
+
+                     "6":{
+                            "City_Name":"Bharuch",
+                            "Latitude":"21.68333333",
+                            "longitude":"73.01666667"	 
+
+                         },
+
+                     "7":{
+                            "City_Name":"Valsad",
+                            "Latitude":"20.59724600",
+                            "longitude":"72.94310800" 
+
+                         },
+
+                     "8":{
+                            "City_Name":"Jamnagar", 
+                            "Latitude":"22.45000000",
+                            "longitude":"70.11666667"
+                         },
+      
+                     "9":{
+                            "City_Name":"Bhuj",
+                            "Latitude":"23.25000000",
+                            "longitude":"69.81666667" 
+
+                         },
+
+                     "10":{
+                            "City_Name":"Nadiad", 
+                            "Latitude":"22.70000100",
+                            "longitude":"72.87000300"
+                         },
+
+                     "11":{
+                            "City_Name":"Amreli",
+                             "Latitude":"21.60000000",
+                            "longitude":"71.25000000" 
+
+                         },
+                        
+                    "12":{       
+                    	    "City_Name":"Anand" ,
+                    	     "Latitude":"22.53333333",
+                            "longitude":"73.00000000" 
+
+                         },
+                         
+                     "13":{
+                            "City_Name":"Anklesvar" ,
+                             "Latitude":"21.63333333",
+                            "longitude":"73.03333333" 
+
+
+                         },   
+                         
+                     "14":{
+                            "City_Name":"Bansda" ,
+                             "Latitude":"20.75000000",
+                            "longitude":"73.46666667" 
+                         },   
+                         
+                     "15":{
+                            "City_Name":"Bedi" ,
+                            "Latitude":"22.53333333",
+                            "longitude":"70.03333333" 
+                         },   
+                         
+                     "16":{
+                            "City_Name":"Bela" ,
+                            "Latitude":"23.80000000",
+                            "longitude":"70.83333333"
+                         },   
+                         
+                     "17":{
+                            "City_Name":"Bagodara" ,
+                            "Latitude":"22.6338588",
+                            "longitude":"72.1698325"
+
+                         },   
+                         
+                     "18":{
+                            "City_Name":"Chotila" ,
+                            "Latitude":"22.4548932",
+                            "longitude":"71.1904835"
+
+                         },   
+                         
+                     "19":{
+                            "City_Name":"Dabhoi" ,
+                            "Latitude":"22.18333333",
+                            "longitude":"73.41666667"
+                         },   
+                         
+                     "20":{
+                            "City_Name":"Dahej" ,
+                             "Latitude":"21.70000000",
+                            "longitude":"72.63333333"
+
+                         },   
+                         
+                     "21":{
+                            "City_Name":"Datha" ,
+                             "Latitude":"21.20000000",
+                            "longitude":"72.00000000"
+
+                         },   
+                         
+                     "22":{
+                            "City_Name":"Dedan" ,
+                              "Latitude":"21.00000000",
+                            "longitude":"71.36666667"
+
+                         },   
+                         
+                     "23":{
+                            "City_Name":"Dhandhuka", 
+                             "Latitude":"22.35000000",
+                            "longitude":"72.03333333"
+                         },   
+                         
+                     "24":{
+                            "City_Name":"Dharampur" ,
+                             "Latitude":"20.53333333",
+                            "longitude":"73.21666667"
+
+                         },   
+                         
+                     "25":{
+                            "City_Name":"Dholera" ,
+                             "Latitude":"22.25000000",
+                            "longitude":"72.25000000"
+
+                         },   
+                         
+                     "26":{
+                            "City_Name":"Dholka" ,
+                             "Latitude":"22.68333333",
+                            "longitude":"72.48333333"
+
+                         },   
+                         
+                     "27":{
+                            "City_Name":"Dhoraji" 
+
+                         },   
+                         
+                     "28":{
+                            "City_Name":"Dhrangadhra",
+                             "Latitude":"22.98333333",
+                            "longitude":"71.51666667"
+
+                         },   
+                         
+                     "29":{
+                            "City_Name":"Disa",
+                             "Latitude":"24.23333333",
+                            "longitude":"72.21666667" 
+
+                         },   
+                         
+                     "30":{
+                            "City_Name":"Dohad",
+                             "Latitude":"22.88333333",
+                            "longitude":"74.31666667" 
+
+                         },   
+                         
+                     "30":{
+                            "City_Name":"Dwarka" ,
+                             "Latitude":"22.23333333",
+                            "longitude":"69.01666667" 
+
+                         },   
+                         
+                     "31":{
+                            "City_Name":"Ghantila" ,
+                             "Latitude":"23.16666667",
+                            "longitude":"71.16666667" 
+
+                         },   
+                         
+                     "32":{
+                            "City_Name":"Gir",
+                             "Latitude":"21.00000000",
+                            "longitude":"71.00000000"  
+
+                         },
+
+                     "33":{
+                            "City_Name":"Godhra",
+                             "Latitude":"22.75000000",
+                            "longitude":"73.66666667" 
+
+                         },
+
+
+                     "34":{
+                            "City_Name":"Gondal" ,
+                             "Latitude":"21.91666667",
+                            "longitude":"70.86666667" 
+
+
+                         },
+                         
+
+                     "35":{
+                            "City_Name":"Himadnagar" ,
+                             "Latitude":"23.70000000",
+                            "longitude":"73.03333333"
+
+                         },
+
+                     "36":{
+                            "City_Name":"Idar" ,
+                             "Latitude":"23.83333333",
+                            "longitude":"73.03333333"
+
+                         },  
+                         
+
+                     "37":{
+                            "City_Name":"Jafarabad",
+                             "Latitude":"20.86666667",
+                            "longitude":"71.41666667"
+ 
+
+                         },
+
+
+                     "38":{
+                            "City_Name":"Jakhau",
+                             "Latitude":"23.23333333",
+                            "longitude":"68.75000000" 
+
+                         },
+
+
+                     "39":{
+                            "City_Name":"Jasdan" ,
+                             "Latitude":"22.06666667",
+                            "longitude":"71.20177500" 
+
+                         },
+
+
+                     "40":{
+                            "City_Name":"Junagadh",
+                             "Latitude":"21.51666667",
+                            "longitude":"70.60000000" 
+
+                         },
+
+
+                     "41":{
+                            "City_Name":"Kachchh" ,
+                             "Latitude":"22.58333333",
+                            "longitude":"69.66666667" 
+
+                         },
+
+
+                     "42":{
+                            "City_Name":"Kadi" ,
+                             "Latitude":"23.30000000",
+                            "longitude":"72.38333333"
+
+                         },
+
+
+                     "43":{
+                            "City_Name":"Kalol",
+                             "Latitude":"23.25000000",
+                            "longitude":"72.55000000" 
+
+                         },
+
+
+                     "44":{
+                            "City_Name":"Kandia" ,
+                             "Latitude":"23.00000000",
+                            "longitude":"70.16666667" 
+
+                         },
+
+
+                     "45":{
+                            "City_Name":"Kathiawar Peninsula",
+                             "Latitude":"22.00000000",
+                            "longitude":"71.00000000"  
+
+                         },
+
+
+                     "46":{
+                            "City_Name":"Khadir" ,
+                             "Latitude":"23.83333333",
+                            "longitude":"70.70000000"  
+
+                         },
+
+
+                     "47":{
+                            "City_Name":"Khambhat" ,
+                             "Latitude":"21.00000000",
+                            "longitude":"72.50000000" 
+
+                         },
+
+
+                     "48":{
+                            "City_Name":"Kharaghoda",
+                             "Latitude":"23.83333333",
+                            "longitude":"72.25000000"  
+
+                         },
+
+
+                     "49":{
+                            "City_Name":"Khedrahma",
+                             "Latitude":"24.05000000",
+                            "longitude":"73.06666667" 
+
+                         },
+
+
+                     "50":{
+                            "City_Name":"Kheralu",
+                             "Latitude":"23.90000000",
+                            "longitude":"72.66666667" 
+
+                         },
+
+
+                     "51":{
+                            "City_Name":"Lakhpat" ,
+                             "Latitude":"23.81666667",
+                            "longitude":"68.80000000" 
+
+                         },
+
+
+                     "52":{
+                            "City_Name":"Lakhtar",
+                             "Latitude":"22.86666667",
+                            "longitude":"71.85000000" 
+
+                         },
+
+
+                     "53":{
+                            "City_Name":"Magori",
+                             "Latitude":"23.30000000",
+                            "longitude":"73.40000000"  
+
+                         },
+
+
+                     "54":{
+                            "City_Name":"Limbdi",
+                             "Latitude":"22.56666667",
+                            "longitude":"71.88333333"  
+ 
+
+                         },
+
+
+                     "55":{
+                            "City_Name":"Lunavada",
+                             "Latitude":"22.13333333",
+                            "longitude":"73.61666667" 
+
+                         },
+
+
+                     "56":{
+                            "City_Name":"Mahesana",
+                             "Latitude":"23.70000000",
+                            "longitude":"72.61666667" 
+
+                         },
+
+
+                     "57":{
+                            "City_Name":"Mahi " ,
+                             "Latitude":"22.33333333",
+                            "longitude":"73.08333333" 
+
+                         },
+
+
+                     "58":{
+                            "City_Name":"Mahuva",
+                             "Latitude":"21.16666667",
+                            "longitude":"71.75000000" 
+
+                         },
+
+
+                     "59":{
+                            "City_Name":"Malia" ,
+                             "Latitude":"23.15000000",
+                            "longitude":"71.36666667"
+
+                         },
+
+
+                     "60":{
+                            "City_Name":"Mandvi",
+                             "Latitude":"22.85000000",
+                            "longitude":"68.53333333" 
+
+                         },
+
+
+                     "61":{
+                            "City_Name":"Mangral",
+                             "Latitude":"21.13333333",
+                            "longitude":"70.23333333" 
+
+                         },
+
+
+                     "62":{
+                            "City_Name":"Mehmadabad",
+                             "Latitude":"22.83333333",
+                            "longitude":"72.80000000"  
+
+                         },
+
+
+                     "63":{
+                            "City_Name":"Modasa" ,
+                             "Latitude":"23.46666667",
+                            "longitude":"73.35000000"
+
+                         },
+
+
+                     "64":{
+                            "City_Name":"Morbi",
+                             "Latitude":"22.81666667",
+                            "longitude":"70.90000000"
+
+                         },
+
+
+                     "65":{
+                            "City_Name":"Mundra" ,
+                             "Latitude":"22.81666667",
+                            "longitude":"69.86666667" 
+
+                         },
+
+
+                     "66":{
+                            "City_Name":"Naenwa",
+                             "Latitude":"22.68333333",
+                            "longitude":"72.91666667"  
+
+                         },
+
+
+                     "67":{
+                            "City_Name":"Nandod",
+                             "Latitude":"21.90000000",
+                            "longitude":"73.56666667"
+
+                         },
+
+
+                     "68":{
+                            "City_Name":"Navsari",
+                             "Latitude":"21.11666667",
+                            "longitude":"73.66666667" 
+
+                         },
+
+
+                     "69":{
+                            "City_Name":"Pachham" ,
+                             "Latitude":"23.93333333",
+                            "longitude":"69.08333333"
+
+                         },
+
+
+                     "70":{
+                            "City_Name":"Padra",
+                             "Latitude":"22.25000000",
+                            "longitude":"73.11666667" 
+
+                         },
+
+
+                     "71":{
+                            "City_Name":"Palanpur",
+                             "Latitude":"24.20000000",
+                            "longitude":"72.46666667" 
+
+                         },
+
+
+                     "72":{
+                            "City_Name":"Palitana",
+                             "Latitude":"21.51666667",
+                            "longitude":"71.88333333" 
+
+                         },
+
+
+                     "73":{
+                            "City_Name":"Parantij",
+                             "Latitude":"23.43333333",
+                            "longitude":"72.91666667"  
+
+                         },
+
+
+                     "74":{
+                            "City_Name":"Godhra",
+                             "Latitude":"22.75000000",
+                            "longitude":"73.66666667"  
+
+                         },
+
+
+                     "75":{
+                            "City_Name":"Patan",
+                             "Latitude":"23.86666667",
+                            "longitude":"72.01666667" 
+
+                         },
+
+
+                     "76":{
+                            "City_Name":"Somnath",
+                             "Latitude":"21.06666667",
+                            "longitude":"70.43333333" 
+ 
+
+                         },
+
+
+                     "77":{
+                            "City_Name":"Petlad" ,
+                             "Latitude":"22.48333333",
+                            "longitude":"72.08333333" 
+
+                         },
+
+
+                     "78":{
+                            "City_Name":"Porbandar",
+                             "Latitude":"21.61666667",
+                            "longitude":"69.81666667" 
+
+                         },
+
+
+                     "79":{
+                            "City_Name":"Okha",
+                             "Latitude":"22.25000000",
+                            "longitude":"69.01666667 "  
+
+                         },
+
+
+                     "80":{
+                            "City_Name":"Radhanpur",
+                             "Latitude":"23.08333333",
+                            "longitude":"71.63333333 " 
+
+                         },
+
+
+                     "81":{
+                            "City_Name":"Rapar",
+                             "Latitude":"23.53333333",
+                            "longitude":"70.06666667" 
+
+                         },
+
+
+                     "82":{
+                            "City_Name":"Sachin",
+                             "Latitude":"21.08333333",
+                            "longitude":"72.98333333" 
+
+                         },
+
+
+                     "83":{
+                            "City_Name":"Sadra",
+                             "Latitude":"23.03333333",
+                            "longitude":"73.78333333"  
+
+                         },
+
+                     "84":{
+                            "City_Name":"Saradiya",
+                             "Latitude":"21.58333333",
+                            "longitude":"70.08333333"  
+ 
+
+                         },
+                         
+                     "85":{
+                            "City_Name":"Satpura Range",
+                             "Latitude":"21.06666667",
+                            "longitude":"75.00000000" 
+
+                         },
+
+                     "86":{
+                            "City_Name":"Sidhpur",
+                             "Latitude":"23.75000000",
+                            "longitude":"72.61666667"  
+
+                         },
+
+                     "87":{
+                            "City_Name":"Tapi",
+                             "Latitude":"21.33333333",
+                            "longitude":"74.50000000" 
+
+                         },
+
+                     "88":{
+                            "City_Name":"Taranga Hill" ,
+                             "Latitude":"24.05000000",
+                            "longitude":"72.73333333" 
+
+
+                         },
+
+                     "89":{
+                            "City_Name":"Tharad"  ,
+                             "Latitude":"24.38333333",
+                            "longitude":"71.61666667" 
+
+                         },
+
+                     "90":{
+                            "City_Name":"Veraval",
+                             "Latitude":"20.88333333",
+                            "longitude":"73.43333333" 
+ 
+
+                         },
+
+                     "91":{
+                            "City_Name":"Vankaner",
+                             "Latitude":"22.55000000",
+                            "longitude":"71.00000000"  
+
+                         },
+
+                     "92":{
+                            "City_Name":"Viramgam" ,
+                             "Latitude":"21.36666667",
+                            "longitude":"72.86666667"
+
+                         },
+
+                     "93":{
+                            "City_Name":"Wadhwan",
+                             "Latitude":"22.71666667",
+                            "longitude":"71.71666667" 
+
+                         }
+
+                     
+
+                },
+
+                "Route":{
+                		
+                           "R_1":
+                             {
+
+                                   "Path": "1#17#54#18#2",
+                                   "SortPath":"1#2"
+
+                             },
+
+                           "R_2":
+                             {
+
+                                   "Path": "1#17#25#3",
+                                   	"SortPath":"1#3"
+                             },
+
+                            "R_3":
+                             {
+
+                                   "Path": "1#10#12#5#6#4",
+                                    "SortPath":"1#4"
+                             },
+                             
+                             "R_4":
+                             {
+
+                                   "Path": "1#10#12#5",
+                                    "SortPath":"1#5"
+
+                             },
+                             
+                              "R_5":
+                             {
+
+                                   "Path": "1#17#54#18#2#8",
+                                   "SortPath":"1#8"
+
+                             },
+
+                              "R_6":
+                             {
+
+                                   "Path": "1#10#12",
+                                    "SortPath":"1#12"
+
+                             },
+
+                              "R_7":
+                             {
+
+                                   "Path": "2#18#54#17#1",
+                                    "SortPath":"2#1"
+
+                             },
+
+                              "R_8":
+                             {
+
+                                   "Path": "2#18#54#17#25#3",
+                                    "SortPath":"2#3"
+
+                             },
+
+                              "R_9":
+                             {
+
+                                   "Path": "2#54#17#10#5#6#4",
+                                    "SortPath":"2#4"
+
+                             },
+
+                              "R_10":
+                             {
+
+                                   "Path": "2#54#17#10#5",
+                                    "SortPath":"2#15"
+
+                             },
+
+                              "R_11":
+                             {
+
+                                   "Path": "2#6#8#9",
+                                   "SortPath":"2#9"
+
+                             },
+
+                              "R_12":
+                             {
+
+                                   "Path": "14#21#23#29",
+                                    "SortPath":"14#29"
+
+                             },
+
+                              "R_13":
+                             {
+
+                                   "Path": "25#36#91#93",
+                                    "SortPath":"25#93"
+
+                             },
+
+                              "R_14":
+                             {
+
+                                   "Path": "12#50#51#60",
+                                    "SortPath":"12#60"
+                             },
+
+                              "R_15":
+                             {
+
+                                   "Path": "50#32#91#15",
+                                    "SortPath":"50#15"
+
+                             },
+
+                              "R_16":
+                             {
+
+                                   "Path": "32#52#40#26",
+                                    "SortPath":"32#26"
+
+                             },
+
+                              "R_17":
+                             {
+
+                                   "Path": "3#2#4#6",
+                                    "SortPath":"3#6"
+
+                             },
+
+                              "R_18":
+                             {
+
+                                   "Path": "2#5#4#6",
+                                    "SortPath":"2#6"
+
+                             },
+
+                              "R_19":
+                             {
+
+                                   "Path": "14#21#22#23",
+                                    "SortPath":"14#23"
+
+                             },
+
+                              "R_20":
+                             {
+
+                                   "Path": "21#58#45#54",
+                                    "SortPath":"21#54"
+
+                             },
+
+                              "R_21":
+                             {
+
+                                   "Path": "22#36#12#18",
+                                    "SortPath":"22#18"
+
+                             },
+
+                              "R_22":
+                             {
+
+                                   "Path": "3#21#51#61",
+                                    "SortPath":"3#61"
+
+                             },
+
+                              "R_23":
+                             {
+
+                                   "Path": "41#15#64#75",
+                                    "SortPath":"41#75"
+
+                             },
+
+                              "R_24":
+                             {
+
+                                   "Path": "15#20#14#18",
+                                    "SortPath":"15#18"
+
+                             },
+
+                              "R_25":
+                             {
+
+                                   "Path": "22#23#25#24",
+                                    "SortPath":"22#24"
+
+                             },
+
+                              "R_26":
+                             {
+
+                                   "Path": "36#5#6#28",																																																																																																																																																																																												
+                                    "SortPath":"36#28"
+
+                             },
+
+                              "R_27":
+                             {
+
+                                   "Path": "2#52#4#26",
+                                    "SortPath":"2#26"
+
+                             },
+
+                              "R_28":
+                             {
+
+                                   "Path": "32#41#15#23",
+                                    "SortPath":"32#23"
+
+                             },
+
+                              "R_29":
+                             {
+
+                                   "Path": "32#92#78#24",
+                                    "SortPath":"32#24"
+
+                             },
+
+                              "R_30":
+                             {
+
+                                   "Path": "52#12#40#16",
+                                    "SortPath":"52#16"
+
+                             }
+
+                },
+
+                "Bus_Route_time":{
+                    "bus_101":{
+                        "Bus_ID":"bus_101",
+                        "Route_ID":"R_1",
+                        "Departure_time":"10:00"
+                    },
+                    "bus_102":{
+                        "Bus_ID":"bus_102",
+                        "Route_ID":"R_2",
+                        "Departure_time":"3:00"
+                    },
+                    "bus_103":{
+                        "Bus_ID":"bus_103",
+                        "Route_ID":"R_3",
+                        "Departure_time":"9:00"
+                    },
+                    "bus_104":{
+                        "Bus_ID":"bus_104",
+                        "Route_ID":"R_4",
+                        "Departure_time":"10:00"
+                    },
+                    "bus_105":{
+                        "Bus_ID":"bus_105",
+                        "Route_ID":"R_5",
+                        "Departure_time":"11:00"
+                    },
+                    "bus_106":{
+                        "Bus_ID":"bus_106",
+                        "Route_ID":"R_9",
+                        "Departure_time":"7:00"
+                    },
+                    "bus_107":{
+                        "Bus_ID":"bus_107",
+                        "Route_ID":"R_1",
+                        "Departure_time":"3:10"
+                    },
+                    "bus_108":{
+                        "Bus_ID":"bus_108",
+                        "Route_ID":"R_8",
+                        "Departure_time":"4:50"
+                    },
+                    "bus_109":{
+                        "Bus_ID":"bus_109",
+                        "Route_ID":"R_19",
+                        "Departure_time":"7:50"
+                    },
+                    "bus_110":{
+                        "Bus_ID":"bus_110",
+                        "Route_ID":"R_25",
+                        "Departure_time":"5:20"
+                    },
+                    "bus_111":{
+                        "Bus_ID":"bus_111",
+                        "Route_ID":"R_1",
+                        "Departure_time":"8:05"
+                    },
+                    "bus_112":{
+                        "Bus_ID":"bus_112",
+                        "Route_ID":"R_22",
+                        "Departure_time":"8:50"
+                    },
+                    "bus_113":{
+                        "Bus_ID":"bus_113",
+                        "Route_ID":"R_25",
+                        "Departure_time":"9:51"
+                    },
+                    "bus_114":{
+                        "Bus_ID":"bus_114",
+                        "Route_ID":"R_28",
+                        "Departure_time":"7:53"
+                    },
+                    "bus_115":{
+                        "Bus_ID":"bus_115",
+                        "Route_ID":"R_10",
+                        "Departure_time":"2:07"
+                    },
+                    "bus_116":{
+                        "Bus_ID":"bus_116",
+                        "Route_ID":"R_16",
+                        "Departure_time":"9:51"
+                    },
+                    "bus_117":{
+                        "Bus_ID":"bus_117",
+                        "Route_ID":"R_8",
+                        "Departure_time":"10:41"
+                    },
+                    "bus_118":{
+                        "Bus_ID":"bus_118",
+                        "Route_ID":"R_18",
+                        "Departure_time":"1:51"
+                    },
+                    "bus_119":{
+                        "Bus_ID":"bus_119",
+                        "Route_ID":"R_11",
+                        "Departure_time":"10:01"
+                    },
+                    "bus_120":{
+                        "Bus_ID":"bus_120",
+                        "Route_ID":"R_17",
+                        "Departure_time":"6:05"
+                    },
+                    "bus_121":{
+                        "Bus_ID":"bus_121",
+                        "Route_ID":"R_14",
+                        "Departure_time":"6:10"
+                    },
+                    "bus_122":{
+                        "Bus_ID":"bus_122",
+                        "Route_ID":"R_24",
+                        "Departure_time":"5:17"
+                    },
+                    "bus_123":{
+                        "Bus_ID":"bus_123",
+                        "Route_ID":"R_16",
+                        "Departure_time":"7:20"
+                    },
+                    "bus_124":{
+                        "Bus_ID":"bus_124",
+                        "Route_ID":"R_12",
+                        "Departure_time":"1:05"
+                    },
+                    "bus_125":{
+                        "Bus_ID":"bus_125",
+                        "Route_ID":"R_15",
+                        "Departure_time":"6:30"
+                    },
+                    "bus_126":{
+                        "Bus_ID":"bus_126",
+                        "Route_ID":"R_3",
+                        "Departure_time":"12:30"
+                    },
+                    "bus_127":{
+                        "Bus_ID":"bus_127",
+                        "Route_ID":"R_27",
+                        "Departure_time":"9:05"
+                    },
+                    "bus_128":{
+                        "Bus_ID":"bus_128",
+                        "Route_ID":"R_25",
+                        "Departure_time":"6:05"
+                    },
+                    "bus_129":{
+                        "Bus_ID":"bus_129",
+                        "Route_ID":"R_26",
+                        "Departure_time":"7:20"
+                    },
+                    "bus_130":{
+                        "Bus_ID":"bus_130",
+                        "Route_ID":"R_22",
+                        "Departure_time":"6:12"
+                    },
+                    "bus_131":{
+                        "Bus_ID":"bus_131",
+                        "Route_ID":"R_21",
+                        "Departure_time":"4:19"
+                    },
+                    "bus_132":{
+                        "Bus_ID":"bus_132",
+                        "Route_ID":"R_27",
+                        "Departure_time":"6:12"
+                    },
+                    "bus_133":{
+                        "Bus_ID":"bus_133",
+                        "Route_ID":"R_29",
+                        "Departure_time":"3:12"
+                    },
+                    "bus_134":{
+                        "Bus_ID":"bus_134",
+                        "Route_ID":"R_20",
+                        "Departure_time":"6:22"
+                    },
+                    "bus_135":{
+                        "Bus_ID":"bus_135",
+                        "Route_ID":"R_6",
+                        "Departure_time":"7:12"
+                    },
+                    "bus_136":{
+                        "Bus_ID":"bus_136",
+                        "Route_ID":"R_19",
+                        "Departure_time":"8:51"
+                    },
+                    "bus_137":{
+                        "Bus_ID":"bus_137",
+                        "Route_ID":"R_13",
+                        "Departure_time":"9:12"
+                   },
+                    "bus_138":{
+                        "Bus_ID":"bus_138",
+                        "Route_ID":"R_7",
+                        "Departure_time":"9:2"
+                     },
+                    "bus_139":{
+                        "Bus_ID":"bus_139",
+                        "Route_ID":"R_9",
+                        "Departure_time":"6:52"
+                    },
+                    "bus_140":{
+                        "Bus_ID":"bus_140",
+                        "Route_ID":"R_4",
+                        "Departure_time":"2:22"
+                    }
+
+                },
+"Distance":{
+
+         				"1":{
+
+         						"2":{
+
+         								"dist":"50"
+
+         							},
+
+         						"3":{
+
+         								"dist":"100"
+
+         							},
+
+         						"4":{
+
+         								"dist":"150"
+
+         							},
+
+         						"5":{
+
+         								"dist":"200"
+
+         							},
+
+                           "6":{
+
+                                 "dist":"250"
+
+                              },
+
+                           "7":{
+
+                                 "dist":"300"
+
+                              },
+
+                           "8":{
+
+                                 "dist":"350"
+
+                              },
+
+                           "9":{
+
+                                 "dist":"400"
+
+                              },
+
+                           "10":{
+
+                                 "dist":"450"
+
+                              }
+
+
+         					},
+
+         				"2":{
+
+         						"1":{
+
+         								"dist":"50"
+
+         							},
+
+         						"3":{
+
+         								"dist":"50"
+
+         							},
+
+         						"4":{
+
+         								"dist":"100"
+
+         							},
+
+         						"5":{
+
+         								"dist":"150"
+
+         							},
+                              "6":{
+
+                                 "dist":"200"
+
+                              },
+
+                           "7":{
+
+                                 "dist":"250"
+
+                              },
+
+                           "8":{
+
+                                 "dist":"300"
+
+                              },
+
+                           "9":{
+
+                                 "dist":"350"
+
+                              },
+
+                           "10":{
+
+                                 "dist":"400"
+
+                              }
+
+
+         					},
+
+         				"3":{
+
+         						"1":{
+
+         								"dist":"100"
+
+         							},
+
+         						"2":{
+
+         								"dist":"50"
+
+         							},
+
+         						"4":{
+
+         								"dist":"50"
+
+         							},
+
+         						"5":{
+
+         								"dist":"100"
+
+         							},
+                           "6":{
+
+                                 "dist":"150"
+
+                              },
+
+                           "7":{
+
+                                 "dist":"200"
+
+                              },
+
+                           "8":{
+
+                                 "dist":"250"
+
+                              },
+
+                           "9":{
+
+                                 "dist":"300"
+
+                              },
+
+                           "10":{
+
+                                 "dist":"350"
+
+                              }
+
+         					},
+
+         				"4":{
+
+         						"1":{
+
+         								"dist":"150"
+
+         							},
+
+         						"2":{
+
+         								"dist":"100"
+
+         							},
+
+         						"3":{
+
+         								"dist":"50"
+
+         							},
+
+         						"5":{
+
+         								"dist":"50"
+
+         							},
+                           "6":{
+
+                                 "dist":"100"
+
+                              },
+
+                           "7":{
+
+                                 "dist":"150"
+
+                              },
+
+                           "8":{
+
+                                 "dist":"200"
+
+                              },
+
+                           "9":{
+
+                                 "dist":"250"
+
+                              },
+
+                           "10":{
+
+                                 "dist":"300"
+
+                              }
+
+         					},
+
+         				"5":{
+
+         						"1":{
+
+         								"dist":"200"
+
+         							},
+
+         						"2":{
+
+         								"dist":"150"
+
+         							},
+
+         						"3":{
+
+         								"dist":"100"
+
+         							},
+
+         						"4":{
+
+         								"dist":"50"
+
+         							},                           
+                                "6":{
+
+  		                                "dist":"50"
+
+                              		},
+
+                           		"7":{
+
+                                		"dist":"100"
+                             		},
+
+	                           "8":{
+
+	                                 "dist":"150"
+
+	                              },
+
+	                           "9":{
+
+	                                 "dist":"200"
+
+	                              },
+
+	                           "10":{
+
+	                                 "dist":"250"
+
+	                              }
+
+         				},                    
+                        "6":{
+
+	                           "1":{
+
+	                                 "dist":"250"
+
+	                              },
+
+
+	                           "2":{
+
+	                                 "dist":"200"
+
+	                              },
+
+	                           "3":{
+
+	                                 "dist":"150"
+
+	                              },
+
+	                           "4":{
+
+	                                 "dist":"100"
+
+	                              },
+
+	                           "5":{
+
+	                                 "dist":"50"
+
+	                              },
+
+	                           
+
+	                           "7":{
+
+	                                 "dist":"50"
+
+	                              },
+
+	                           "8":{
+
+	                                 "dist":"100"
+
+	                              },
+
+	                           "9":{
+
+	                                 "dist":"150"
+
+	                              },
+
+	                           "10":{
+
+	                                 "dist":"200"
+
+	                              }
+                          },
+                       "7":{
+
+	                           "1":{
+
+	                                 "dist":"300"
+
+	                              },
+
+
+	                           "2":{
+
+	                                 "dist":"250"
+
+	                              },
+
+	                           "3":{
+
+	                                 "dist":"200"
+
+	                              },
+
+	                           "4":{
+
+	                                 "dist":"150"
+
+	                              },
+
+	                           "5":{
+
+	                                 "dist":"100"
+
+	                              },
+
+	                           
+
+	                           "6":{
+
+	                                 "dist":"50"
+
+	                              },
+
+	                           "8":{
+
+	                                 "dist":"50"
+
+	                              },
+
+	                           "9":{
+
+	                                 "dist":"100"
+
+	                              },
+
+	                           "10":{
+
+	                                 "dist":"150"
+
+	                              }
+
+
+                        },
+                        "8":{
+
+	                           "1":{
+
+	                                 "dist":"350"
+
+	                              },
+
+
+	                           "2":{
+
+	                                 "dist":"300"
+
+	                              },
+
+	                           "3":{
+
+	                                 "dist":"250"
+
+	                              },
+
+	                           "4":{
+
+	                                 "dist":"200"
+
+	                              },
+
+	                           "5":{
+
+	                                 "dist":"150"
+
+	                              },
+
+	                           
+
+	                           "6":{
+
+	                                 "dist":"100"
+
+	                              },
+
+	                           "7":{
+
+	                                 "dist":"50"
+
+	                              },
+
+	                           "9":{
+
+	                                 "dist":"50"
+
+	                              },
+
+	                           "10":{
+
+	                                 "dist":"100"
+
+	                              }
+
+
+                        },
+                        "9":{
+
+	                           "1":{
+
+	                                 "dist":"400"
+
+	                              },
+
+
+	                           "2":{
+
+	                                 "dist":"350"
+
+	                              },
+
+	                           "3":{
+
+	                                 "dist":"300"
+
+	                              },
+
+	                           "4":{
+
+	                                 "dist":"250"
+
+	                              },
+
+	                           "5":{
+
+	                                 "dist":"200"
+
+	                              },
+
+	                           
+
+	                           "6":{
+
+	                                 "dist":"150"
+
+	                              },
+
+	                           "7":{
+
+	                                 "dist":"100"
+
+	                              },
+
+	                           "8":{
+
+	                                 "dist":"50"
+
+	                              },
+
+	                           "10":{
+
+	                                 "dist":"50"
+
+	                              }
+
+
+                        },
+
+                        "10":{
+
+	                           "1":{
+
+	                                 "dist":"450"
+
+	                              },
+
+
+	                           "2":{
+
+	                                 "dist":"400"
+
+	                              },
+
+	                           "3":{
+
+	                                 "dist":"350"
+
+	                              },
+
+	                           "4":{
+
+	                                 "dist":"300"
+
+	                              },
+
+	                           "5":{
+
+	                                 "dist":"250"
+
+	                              },
+
+	                           
+
+	                           "6":{
+
+	                                 "dist":"200"
+
+	                              },
+
+	                           "7":{
+
+	                                 "dist":"150"
+
+	                              },
+
+	                           "8":{
+
+	                                 "dist":"100"
+
+	                              },
+
+	                           "9":{
+
+	                                 "dist":"50"
+
+	                              }
+	                        }
+       				 },
+
+       	"Fare_Collected_Status": {
+
+                                      "1":{
+
+                                      		"Bus_ID":"bus_101",
+                                      		"C_ID":"cn_101",
+                                      		"Date":"2019-02-14",
+                                      		"Is_Collected":"0"
+                                      	  },
+
+                                      	"2":{
+
+                                      		"Bus_ID":"bus_222",
+                                      		"C_ID":"cn_109",
+                                      		"Date":"2019-02-22",
+                                      		"Is_Collected":"0"
+                                      	  },
+
+                                      	"3":{
+
+                                      		"Bus_ID":"bus_103",
+                                      		"C_ID":"cn_103",
+                                      		"Date":"2019-02-18",
+                                      		"Is_Collected":"0"
+                                      	  },
+
+                                      	"4":{
+
+                                      		"Bus_ID":"bus_102",
+                                      		"C_ID":"cn_101",
+                                      		"Date":"2019-02-17",
+                                      		"Is_Collected":"1"
+                                      	  },
+
+                                      	"5":{
+
+                                      		"Bus_ID":"bus_103",
+                                      		"C_ID":"cn_102",
+                                      		"Date":"2019-02-18",
+                                      		"Is_Collected":"0"
+                                      	  },
+
+                                     	"6":{
+
+                                      		"Bus_ID":"bus_101",
+                                      		"C_ID":"cn_101",
+                                      		"Date":"2019-02-21",
+                                      		"Is_Collected":"0"
+                                      	  },
+
+                                      	 "7":{
+
+                                      		"Bus_ID":"bus_101",
+                                      		"C_ID":"cn_102",
+                                      		"Date":"2019-02-21",
+                                      		"Is_Collected":"0"
+                                      	  },
+
+                                      	 "8":{
+
+                                      		"Bus_ID":"bus_102",
+                                      		"C_ID":"cn_102",
+                                      		"Date":"2019-02-20",
+                                      		"Is_Collected":"0"
+                                      	  },
+
+                                      	"9":{
+
+                                      		"Bus_ID":"bus_103",
+                                      		"C_ID":"cn_101",
+                                      		"Date":"2019-02-21",
+                                      		"Is_Collected":"0"
+                                      	  },
+
+                                      	"10":{
+
+                                      		"Bus_ID":"bus_103",
+                                      		"C_ID":"cn_102",
+                                      		"Date":"2019-02-20",
+                                      		"Is_Collected":"0"
+                                      	  }  
+
+      							},
+
+      				"Location":{
+
+
+      								"bus_101":{
+
+      											"latitude":"22.8166666",
+      											"longitude":"73.35"
+      											},
+
+      								"bus_102":{
+
+      											"latitude":"23.03386300",
+                            					"longitude":"72.66666667"
+      											},
+      											
+      								"bus_103":{
+
+      											  "latitude":"22.30000000",
+                            					  "longitude":"70.93333333"
+      											}
+			
+			      							},
+
+			      					"History":{
+
+			      									"cn_101":{
+
+			      												"1":{
+
+			      														"Bus_ID":"bus_101",
+			      														"Route_ID":"R_1",
+			      														"Date":"2019-02-21",
+			      														"Total_Tickets":"5",
+			      														"Total_Fare":"650",
+			      														"Transaction_Complete":"0",
+			      														"Source":"Ahmedabad",
+			      														"Destination":"Vadodara"
+
+			      												   },
+
+
+			      												"2":{
+
+			      														"Bus_ID":"bus_102",
+			      														"Route_ID":"R_4",
+			      														"Date":"2019-02-17",
+			      														"Total_Tickets":"8",
+			      														"Total_Fare":"800",
+			      														"Transaction_Complete":"0",
+			      														"Source":"Ahmedabad",
+			      														"Destination":"Vadodara"
+			      														
+
+
+			      												   }
+			      											},
+
+			      									"cn_102":{
+
+			      												"1":{
+
+			      														"Bus_ID":"bus_101",
+			      														"Route_ID":"R_1",
+			      														"Date":"2019-02-21",
+			      														"Total_Tickets":"5",
+			      														"Total_Fare":"600",
+			      														"Transaction_Complete":"0",
+			      														"Source":"Ahmedabad",
+			      														"Destination":"Vadodara"
+
+
+			      												   },
+
+
+			      												"2":{
+
+			      														"Bus_ID":"bus_103",
+			      														"Route_ID":"R_4",
+			      														"Date":"2019-02-18",
+			      														"Total_Tickets":"2",
+			      														"Total_Fare":"200",
+			      														"Transaction_Complete":"0",
+			      														"Source":"Ahmedabad",
+			      														"Destination":"Vadodara"
+
+
+			      												   }
+			      											}
+
+
+			      							}
+
+} 
